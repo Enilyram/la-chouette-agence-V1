@@ -681,6 +681,12 @@ a {
     margin: auto auto auto auto;
 }
 
+.col-sm-4
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 p {
     font-size: 11px;
 }
@@ -1033,6 +1039,10 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+    .col-sm-6 img{
+        width: 85%;
+        margin: auto;
     }
 }
 
