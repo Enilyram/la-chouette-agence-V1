@@ -406,6 +406,13 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+    .bg-banniere
+    {
+        background-image: url(img/la-chouette-agence-banniere.jpg);
+    }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation.png");
+    }
 }
 
 .nav > li > .dropdown a {
@@ -839,6 +846,13 @@ h4 {
     .bloc-tile-4.full-width-bloc .container {
         padding-left: 0;
         padding-right: 0;
+    }
+    .bg-banniere
+    {
+        background-image: url(img/la-chouette-agence-banniere.jpg);
+    }
+    .bg-presentation {
+        background-image: url("img/image-de-presentation.png");
     }
 }
 
