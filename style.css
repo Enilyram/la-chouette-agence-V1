@@ -7,6 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
 ul {
     list-style-type: none;
 }
@@ -944,6 +945,10 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    
+    #bloc-8 li {
+        padding: 8px;
+    }
     .bloc-mob-center-text {
         text-align: center;
     }
