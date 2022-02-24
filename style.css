@@ -111,7 +111,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 0, 0, 0.808);
 }
 
 .d-bloc button:hover {
@@ -161,7 +161,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #1C1A25;
+    background-color: #000000;
     padding: 40px 40px 40px 40px;
 }
 
@@ -799,7 +799,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
